@@ -1,6 +1,6 @@
 # AI Projects Repository
 
-這個 Repo 收集了我在人工智慧領域的各種專案與實作，涵蓋 **機器學習、深度學習、生成式 AI、自然語言處理、影像處理** 等領域。每個專案包含 Notebook、程式碼以及部分使用的資料集。  
+這個 Repo 收集了我在人工智慧領域的各種專案與實作，涵蓋 **機器學習、深度學習、生成式 AI、自然語言處理、影像處理、資料視覺化** 等領域。每個專案包含 Notebook、程式碼以及部分使用的資料集。  
 
 ---
 
@@ -59,9 +59,3 @@
 - nn_layer.py, pruning_mlp.py  
 
 ---
-
-## 使用方式
-
-1. 安裝必要套件（以 Python 為例）：
-```bash
-pip install numpy pandas matplotlib torch torchvision scikit-learn jupyter
