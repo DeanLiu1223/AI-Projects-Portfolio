@@ -1,4 +1,4 @@
-# 📚 課程作業集錦 (Course-Assignments)
+# 💡 人工智慧專案實作集 (AI-Projects-Portfolio)
 
 這個 Repository 彙集了我在大學期間，在 **人工智慧、機器學習、深度學習** 等相關課程中所完成的程式作業與專案。
 
