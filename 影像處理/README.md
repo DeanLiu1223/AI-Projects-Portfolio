@@ -1,1 +1,6 @@
-[![PDF Preview](<img width="797" height="462" alt="image" src="https://github.com/user-attachments/assets/19fec610-23cd-45d4-bdfc-5454914f0e51" />)](./影像處理應用.pdf)
+## 影像處理應用 (Image Processing Applications)
+
+[![PDF 預覽圖](./preview.png)](./影像處理應用.pdf)
+
+> 點擊上方圖片可開啟完整 PDF 檔案  
+> 檔案名稱：**影像處理應用.pdf**
