@@ -14,6 +14,6 @@
 <br> - **[torchvision model testing.ipynb](./torchvision%20model%20testing.ipynb)**: 不同 PyTorch 視覺模型的測試與評估。 
 <br> - **[yolov11_Toyota Logo.ipynb](./yolov11_Toyota%20Logo.ipynb)**: 應用 YOLOv11 進行特定目標 (Toyota Logo) 的偵測。
 
-<br>[![PDF 預覽圖](./yolov11_Toyota Logo.png)]([./影像處理應用.pdf](https://youtu.be/uvlgBkSKyBg))
+### [![PDF 預覽圖](./yolov11_Toyota Logo.png)]([./影像處理應用.pdf](https://youtu.be/uvlgBkSKyBg))
 
 > 點擊上方圖片可開啟yolo辨識影片  
