@@ -12,8 +12,8 @@
 
 | 課程/領域名稱 | 簡介 | 相關檔案與專案 |
 | :--- | :--- | :--- |
-| **[AI數據的經濟應用](AI數據的經濟應用)** | 應用 AI/機器學習技術於經濟相關數據的分析與預測。 | - **[Airfare Price Forecast.ipynb](AI數據的經濟應用/Airfare%20Price%20Forecast.ipynb)**: 飛機票價格預測模型建構。 |
-| **[人工智慧技術實務](人工智慧技術實務)** | 實踐人工智慧相關的技術應用，著重於資料處理與模型部署。 | - **[Date fruit classification.ipynb](人工智慧技術實務/Date%20fruit%20classification.ipynb)**: 棗類水果的影像分類專案。 |
+| **[AI數據的經濟應用](AI數據的經濟應用)** | 應用 AI/機器學習技術於經濟相關數據的分析與預測。 | - **[Airfare Price Forecast.ipynb](AI數據的經濟應用/Airfare%20Price%20Forecast.ipynb)**: 機票價格預測模型建構。 |
+| **[人工智慧技術實務](人工智慧技術實務)** | 實踐人工智慧相關的技術應用，著重於資料處理與模型部署。 | - **[Date fruit classification.ipynb](人工智慧技術實務/Date%20fruit%20classification.ipynb)**: 棗果的影像分類專案。 |
 | **[影像處理](影像處理)** | 學習基本的影像處理演算法，並應用於實務問題。 | - **[Image Processing Applications.ipynb](影像處理/Image%20Processing%20Applications.ipynb)**: 各種影像處理技術的應用筆記。 |
 | **[機器學習](機器學習)** | 實作多種經典機器學習模型，處理分類與迴歸問題。 | - **[Classification of Breast Cancer Recurrence.ipynb](機器學習/Classification%20of%20Breast%20Cancer%20Recurrence.ipynb)**: 預測乳腺癌復發的模型。 <br> - **[Classification of Sleep Disorders.ipynb](機器學習/Classification%20of%20Sleep%20Disorders.ipynb)**: 根據生活習慣數據進行睡眠障礙分類。 |
 | **[機器學習與應用](機器學習與應用)** | 應用機器學習於實際商業或保險數據，進行預測分析。 | - **[Predicted Claim Amount.ipynb](機器學習與應用/Predicted%20Claim%20Amount.ipynb)**: 保險理賠金額的預測模型。 |
